@@ -8,7 +8,7 @@
 </head>
 <body>
     <?php 
-    echo"<h3> we RE DEALINNG WITH PHP</h3>"
+    echo"<h3> WE ARE DEALINNG WITH PHP</h3>";
     ?>
     
 </body>
